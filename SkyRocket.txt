@@ -1,0 +1,25 @@
+ToDo:
+- skybox retroVR/synthwave
+- Settings (dontDestroyOnLoad)
+- lvl 5, patrz notatka
+- modele wie¿yczek (3DS lub Blender)
+- uniki zawsze na t¹ samaa odleg³oœæ?
+- lasery nie koliduj¹ce z laserem gracza
+- mouseSensivity uzale¿nione od frameratu, daj funkcje w PlayerLook do FixedUpdate //nie do koñca dzia³a 
+- lepszy drag (z GDC, ^2)
+- ruchome platformy (nudne, ma³y priorytet)
+
+
++ wie¿yczki + ostrzeganie przed lasererem  //na razie bez modeli
++ stop rozgladaniu po endscreen
++ lasery (z dobrym bloomem) /ruchome
++ System uników
++ strzelanie do celów //raycast
++ EndScreen z wynikami
++ PPM zatrzymuje (spowalnia do 0) gracza, bez grawitacji? (rb.velocity -> 0) //zamiana na slowmo
++ Menu
++ FOV > przy > prêdkoœciach (szarpie przy przyœpieszeniu LPM) //teraz dzia³a
+- wiêkszy skok po przytrzymaniu space (licznik += Time.deltatime, < max) //dzia³a bardziej jak jetpack
+- checkpointy (podajace czas) //na razie nieotrzebne, targety lepsze
+- skyboxy (3 pory dnia) // zmiana klimatu na retro
+- pixelowe grafiki platform (retro grafiki s¹)

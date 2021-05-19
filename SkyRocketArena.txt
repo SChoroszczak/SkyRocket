@@ -1,0 +1,7 @@
+- better movement
+- rail gun z tego co juz mam
+- hitscan riffle (raycast z efektem przy trafieniu)
+- endless arena?
+- slow enemy bullets/bullethell?
+- slowmo when aiming(ppm)
+- uniki 
